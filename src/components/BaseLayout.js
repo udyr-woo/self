@@ -71,12 +71,7 @@ export default function BaseLayout() {
             width={'100%'}
           >
             <p>
-              template created with &hearts; by{' '}
-              <a href={'https://paytonpierce.dev'}>Payton Pierce</a>
-            </p>
-            <p>
-              enhence implemented with &hearts; by <a href={'https://andy8647.com'}>Andy Luo </a>,
-              redesigned with &hearts; by <a href={'https://ingrid0126.com'}>Ingrid Fei</a>
+              Woo Seong Jun. All rights reserved.
             </p>
             <p>&copy; 2023</p>
           </Box>
